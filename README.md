@@ -1,4 +1,4 @@
-ن# Git command to start project
+# Git command to start project
 
 ```git
 echo "# turning-system" >> README.md  
